@@ -11,6 +11,9 @@ Issue tracker is **ONLY** used for reporting bugs. New features should be discus
 
 <!--- Provide a general summary of the issue in the Title above -->
 
+## Parrent Issue (optional)
+<!--- Reference parrent issue, if this issue is part of another issue -->
+
 ## Expected Behavior
 <!--- Tell us what should happen -->
 
